@@ -1,0 +1,11 @@
+name: ptlsbot
+
+dependencies:
+  nyxx:
+    git:
+      url: git://github.com/l7ssha/nyxx.git
+      ref: rewrite_modular
+      path: nyxx
+  pointless:
+    git:
+      url: git://github.com/pointless-lang/pointless.git

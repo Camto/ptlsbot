@@ -1,0 +1,271 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/async-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/charcode-1.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "cli_repl",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/cli_repl-0.2.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "1.20"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "colorize",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/colorize-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "dart2_constant",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/dart2_constant-1.0.2+dart2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "dartz",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/dartz-0.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/file-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "fluri",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fluri-1.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/glob-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/http-0.12.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/intl-0.16.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/js-0.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/matcher-0.12.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "1.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/mime-0.9.6+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "node_interop",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/node_interop-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "node_io",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/node_io-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "nyxx",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/git/nyxx-b5de8883de5aabe2e91d4ea16ff9c4e3d4e0d8bc/nyxx",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/package_config-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "package_resolver",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/package_resolver-1.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pedantic-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "pointless",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/git/pointless-ce8a575812d54d8fb59d6c510a424b979a52eda0/",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/quiver-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "sass",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sass-1.26.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "sockjs_client",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/git/sockjs-dart-client-2e8dc8d2fe8486d31b6e220277c94d746ced1691/",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "sockjs_client_wrapper",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sockjs_client_wrapper-1.0.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "source_maps",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_maps-0.10.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_span-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stack_trace-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "1.23"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stream_transform-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "string_unescape",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/string_unescape-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "1.8"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/tuple-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "w_common",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/w_common-1.20.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "w_transport",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/w_transport-3.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///C:/Users/Camto/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/watcher-0.9.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "ptlssbot",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-06-26T16:06:28.306262Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.0-19.0.dev"
+}
